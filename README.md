@@ -1,2 +1,2 @@
 # Nagarro-Hackathon
-*Prototype Project
+> Prototype Project
